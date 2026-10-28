@@ -1,46 +1,93 @@
-<h1 align="center">Hi 👋, I'm Viresh Dhanaji Patil</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+# Hi 👋, I'm Viresh Dhanaji Patil
 
+### Full Stack Developer | MERN Stack | Building Scalable Web Applications
 
-- 📫 How to reach me **pviresh508@gmail.com**
+I'm a passionate Full Stack Developer from India who enjoys building modern, responsive, and scalable web applications. I focus on frontend and backend development, secure REST APIs, database design, and real-world application architecture.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/viresh-dhanaji-patil/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="viresh patil" height="30" width="40" />
+-  Building full-stack **e-commerce applications and multi-tenant SaaS platforms**
+-  Developing RESTful APIs and database-driven applications
+-  Implementing JWT authentication, HTTP-only cookies, and secure password hashing
+-  Using Zod for request validation and Mongoose for MongoDB data modeling
+-  Writing automated backend tests with Vitest and Supertest
+-  Exploring cloud deployment and production-ready application architecture
+-  Reach me at **[pviresh508@gmail.com](mailto:pviresh508@gmail.com)**
+-  Connect with me on [LinkedIn](https://www.linkedin.com/in/viresh-dhanaji-patil/)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🛠️ WorkSync — Multi-Tenant Project Management SaaS
+
+A full-stack project management application that supports multiple workspaces, teams, projects, and tasks.
+
+- Developed RESTful APIs using Node.js, Express.js, and MongoDB.
+- Implemented JWT authentication with access and refresh tokens using HTTP-only cookies.
+- Used Argon2 for secure password hashing and Zod for request validation.
+- Implemented workspace and project membership management.
+- Built task management, activity tracking, notifications, and dashboard APIs.
+- Added automated backend testing using Vitest and Supertest.
+- Developed the frontend using React, Vite, and Tailwind CSS.
+
+**Tech Stack:** React, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, Mongoose, Zod, JWT, Argon2.
+
+#### 🛒 E-Commerce Application
+
+A full-stack e-commerce application focused on product management, shopping cart functionality, and backend API development.
+
+- Developed RESTful APIs using Node.js and Express.js.
+- Implemented product and shopping cart functionality.
+- Used MongoDB and Mongoose for database modeling and queries.
+- Worked on backend validation, error handling, and inventory management.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Mongoose, JavaScript.
+
+---
+
+### 🧰 Languages and Tools
+
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind,bootstrap" alt="HTML, CSS, JavaScript, React, Vite, Tailwind CSS, Bootstrap" />
+</p>
+
+**Backend Development and Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express.js, MongoDB, MySQL" />
+</p>
+
+**Authentication, Validation and Testing**
+
+- **Validation:** Zod
+- **ODM:** Mongoose
+- **Authentication:** JWT, HTTP-only cookies, refresh tokens
+- **Password Hashing:** Argon2
+- **Testing:** Vitest, Supertest
+- **Email Integration:** Nodemailer
+
+**Tools and Deployment**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,docker,postman" alt="Git, GitHub, VS Code, AWS, Docker, Postman" />
+</p>
+
+- **Version Control:** Git and GitHub
+- **Cloud Deployment:** AWS EC2
+- **API Development and Testing:** Postman
+
+---
+
+### 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/viresh-dhanaji-patil/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pviresh508@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-</p>
+⭐ Thanks for visiting my profile!
